@@ -18,7 +18,7 @@ Axioms R0–R20 are self-consistent and closed. Open questions are listed.
 
 系统自洽,开放问题已列出。
 
- Zenodo:10.5281/zenodo.21988348
+ DOI:10.5281/zenodo.21988348
 
 GitHub :https://github.com/xunZhang01
 
